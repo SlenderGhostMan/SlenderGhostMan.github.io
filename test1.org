@@ -1,0 +1,16 @@
+#+options: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+options: broken-links:nil c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+options: email:nil f:t inline:t num:t p:nil pri:nil prop:nil stat:t tags:t
+#+options: tasks:t tex:t timestamp:t title:t toc:t todo:t |:t
+#+title: test1
+#+date: <2020-08-09 周日>
+#+author: Oswald-Lee
+#+email: a18664950312@163.com
+#+language: en
+#+select_tags: export
+#+exclude_tags: noexport
+#+creator: Emacs 26.1 (Org mode 9.3.7)
+
+* TestFile
+** This my first blog file in github
+[[D:\C++\CppLearn\C++Primer\Note\Literals.svg]]
